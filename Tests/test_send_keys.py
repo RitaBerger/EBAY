@@ -1,4 +1,3 @@
-import Pytest
 import pytest
 from selenium import webdriver
 from selenium.webdriver import Keys
