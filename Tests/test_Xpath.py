@@ -12,4 +12,6 @@ def test_Xpath():
     browser = webdriver.Chrome(service=service, options=options)
     browser.maximize_window()
     browser.get("https://www.ebay.com")
-    My_Ebay = Select(browser.find_element(By.XPATH, "//?/a[@innertext='My eBay']"))
+    browser.find_element(By.XPATH, "//div[@class='vl-cta__default evo']")
+
+
