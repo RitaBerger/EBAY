@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cb83c57-f0f9-43c6-bcca-d6d16ff6d8cd" name="Changes" comment="test_parametrize.py added">
+      <change beforePath="$PROJECT_DIR$/Tests/test_send_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_send_keys.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="New_branch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lWt4DXFizAqpadT9aZOLSIS1RI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_TEST.test_TEST.executor": "Run",
+    "Python tests.Python tests for test_Xpath.test_Xpath.executor": "Run",
+    "Python tests.Python tests for test_assert.test_assert.executor": "Run",
+    "Python tests.Python tests for test_dropdown.test_dropdown.executor": "Run",
+    "Python tests.Python tests for test_explicit_wait.test_explicit_wait.executor": "Run",
+    "Python tests.Python tests for test_implicit_wait.test_implicit_wait.executor": "Run",
+    "Python tests.Python tests for test_send_keys.test_send_keys.executor": "Run",
+    "Python tests.Python tests in test_TEST.py.executor": "Run",
+    "Python tests.Python tests in test_Xpath.py.executor": "Run",
+    "Python tests.Python tests in test_text_and_is_displayed.py.executor": "Run",
+    "Python tests.pytest for test_amazon.test_amazon.executor": "Run",
+    "Python tests.pytest for test_amazon.test_macys.executor": "Run",
+    "Python tests.pytest for test_dropdown.test_dropdown.executor": "Run",
+    "Python tests.pytest for test_parametrize.test_simple_search.executor": "Run",
+    "Python tests.pytest for test_send_keys.test_send_keys.executor": "Run",
+    "Python tests.pytest in test_parametrize.py.executor": "Run",
+    "Python.Assert (1).executor": "Run",
+    "Python.Conftest.executor": "Run",
+    "Python.Dropdown (1).executor": "Run",
+    "Python.Dropdown.executor": "Run",
+    "Python.Ebay_text.executor": "Run",
+    "Python.Navigation.executor": "Run",
+    "Python.Send_keys.executor": "Run",
+    "Python.TEST.executor": "Run",
+    "Python.Text.executor": "Run",
+    "Python.Text_and_is_displayed (1).executor": "Run",
+    "Python.Xpath (1).executor": "Run",
+    "Python.Xpath.executor": "Run",
+    "Python.assert (1).executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.explicit_wait.executor": "Run",
+    "Python.practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gorar/PycharmProjects/Ebay/Tests",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gorar\PycharmProjects\Ebay\Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_amazon.test_macys">
+    <configuration name="pytest for test_amazon.test_amazon" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_amazon.test_amazon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_amazon.test_macys" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_amazon.test_macys&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_dropdown.test_dropdown" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dropdown.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_parametrize.test_simple_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_parametrize.test_simple_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_send_keys.test_send_keys" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_send_keys.test_send_keys&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_amazon.test_macys" />
+        <item itemvalue="Python tests.pytest for test_send_keys.test_send_keys" />
+        <item itemvalue="Python tests.pytest for test_parametrize.test_simple_search" />
+        <item itemvalue="Python tests.pytest for test_dropdown.test_dropdown" />
+        <item itemvalue="Python tests.pytest for test_amazon.test_amazon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb83c57-f0f9-43c6-bcca-d6d16ff6d8cd" name="Changes" comment="" />
+      <created>1725307466780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725307466780</updated>
+    </task>
+    <task id="LOCAL-00001" summary="8 tests are added">
+      <option name="closed" value="true" />
+      <created>1726452813887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726452813887</updated>
+    </task>
+    <task id="LOCAL-00002" summary="8 tests are added">
+      <option name="closed" value="true" />
+      <created>1726457144455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726457144455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test_Xpath.py changed">
+      <option name="closed" value="true" />
+      <created>1726495680820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726495680820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test_Xpath.py changed">
+      <option name="closed" value="true" />
+      <created>1726512864179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726512864179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Conftest.py added">
+      <option name="closed" value="true" />
+      <created>1726583067674</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726583067674</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Conftest.py added">
+      <option name="closed" value="true" />
+      <created>1726583493074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726583493074</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test_parametrize.py added">
+      <option name="closed" value="true" />
+      <created>1726588469724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588469724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8 tests are added" />
+    <MESSAGE value="test_Xpath.py changed" />
+    <MESSAGE value="Conftest.py added" />
+    <MESSAGE value="test_parametrize.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="test_parametrize.py added" />
+  </component>
+</project>
