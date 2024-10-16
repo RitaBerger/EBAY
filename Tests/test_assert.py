@@ -9,6 +9,6 @@ def test_assert():
     options = webdriver.ChromeOptions()
     browser = webdriver.Chrome(service=service, options=options)
     browser.maximize_window()
-    browser.get("https://www.google.com")
-    assert "https://www.google.com" == browser.current_url
-    assert "Google" == browser.title
+    browser.get("https://www.ebay.com")
+    assert "https://www.ebay.com/" == browser.current_url
+    assert "Electronics, Cars, Fashion, Collectibles & More | eBay" == browser.title

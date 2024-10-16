@@ -1,0 +1,21 @@
+import requests
+import pytest
+@pytest.mark.apitest
+def test_create_product():
+    #dictionary in python looks exactly like json object {}
+    test_data = {
+        "title": "Automation QA Job",
+        "description": "I know Automation API Testing Now! wow",
+        "category": "beauty",
+        "price": 50.99
+    }
+    my_headers = {"Authorization" : "Bearer 538u95837fgkljhdefjigy34r978ty4538gyh"}
+    response = requests.post("https://dummyjson.com/products/add", data=test_data, headers=my_headers)
+    assert response.status_code == 201
+    assert response.headers["Content-Type"] == "application/json; charset=utf-8"
+    json_data = response.json()
+    assert json_data["title"] == "Automation QA Job"
+    assert json_data["description"] == "I know Automation API Testing Now! wow"
+    assert json_data["category"] == "beauty"
+    assert json_data["price"] == '50.99'
+    

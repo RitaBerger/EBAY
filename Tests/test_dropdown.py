@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver import Keys
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
@@ -15,5 +16,6 @@ def test_dropdown():
     categories_dropdown.select_by_visible_text("Art")
     categories_dropdown.select_by_index("1")
     categories_dropdown.select_by_value("281")
+
 
 
