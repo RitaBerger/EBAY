@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb83c57-f0f9-43c6-bcca-d6d16ff6d8cd" name="Changes" comment="Conftest.py deleted">
-      <change afterPath="$PROJECT_DIR$/Tests/API/test_create_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/API/test_get_all_products.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/API/test_get_single_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/API/test_headers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/API/test_search_products.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_assert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_assert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_dropdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_parametrize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_parametrize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/test_create_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/test_get_all_products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/test_get_single_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/test_headers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/test_search_products.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,72 +40,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for API_test.test_get_all_products.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Link.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Tests.API.test_headers.test_create_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for Tests.test_link.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for ggg.test_create_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_TEST.test_TEST.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Xpath.test_Xpath.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_assert.test_assert.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_create_product.test_create_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dropdown.test_dropdown.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for test_explicit_wait.test_explicit_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_get_single_product.test_get_single_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_implicit_wait.test_implicit_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_link.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_parametrize.test_simple_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_search_products.test_search_products.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_send_keys.test_send_keys.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_text_and_is_displayed.test_text_and_is_displayed.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_xpath_text.test_text_and_is_displayed.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_TEST.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Xpath.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_assert.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dropdown.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_implicit_wait.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_link.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_parametrize.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_text_and_is_displayed.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_xpath_text.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_amazon.test_amazon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_amazon.test_macys.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_dropdown.test_dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_parametrize.test_simple_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_send_keys.test_send_keys.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_parametrize.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assert (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dropdown (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dropdown.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ebay_text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Navigation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Send_keys.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Text_and_is_displayed (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Xpath (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Xpath.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assert (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.explicit_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gorar/PycharmProjects/Ebay/Tests&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for API_test.test_get_all_products.executor": "Run",
+    "Python tests.Python tests for Link.test_dropdown.executor": "Run",
+    "Python tests.Python tests for Tests.API.test_headers.test_create_product.executor": "Run",
+    "Python tests.Python tests for Tests.test_link.test_dropdown.executor": "Run",
+    "Python tests.Python tests for ggg.test_create_product.executor": "Run",
+    "Python tests.Python tests for test_TEST.test_TEST.executor": "Run",
+    "Python tests.Python tests for test_Xpath.test_Xpath.executor": "Run",
+    "Python tests.Python tests for test_assert.test_assert.executor": "Run",
+    "Python tests.Python tests for test_create_product.test_create_product.executor": "Run",
+    "Python tests.Python tests for test_dropdown.test_dropdown.executor": "Debug",
+    "Python tests.Python tests for test_explicit_wait.test_explicit_wait.executor": "Run",
+    "Python tests.Python tests for test_get_all_products.test_get_all_products.executor": "Run",
+    "Python tests.Python tests for test_get_single_product.test_get_single_product.executor": "Run",
+    "Python tests.Python tests for test_implicit_wait.test_implicit_wait.executor": "Run",
+    "Python tests.Python tests for test_link.test_dropdown.executor": "Run",
+    "Python tests.Python tests for test_parametrize.test_simple_search.executor": "Run",
+    "Python tests.Python tests for test_search_products.test_search_products.executor": "Run",
+    "Python tests.Python tests for test_send_keys.test_send_keys.executor": "Run",
+    "Python tests.Python tests for test_text_and_is_displayed.test_text_and_is_displayed.executor": "Run",
+    "Python tests.Python tests for test_xpath_text.test_text_and_is_displayed.executor": "Run",
+    "Python tests.Python tests in test_TEST.py.executor": "Run",
+    "Python tests.Python tests in test_Xpath.py.executor": "Run",
+    "Python tests.Python tests in test_assert.py.executor": "Run",
+    "Python tests.Python tests in test_dropdown.py.executor": "Run",
+    "Python tests.Python tests in test_implicit_wait.py.executor": "Run",
+    "Python tests.Python tests in test_link.py.executor": "Run",
+    "Python tests.Python tests in test_parametrize.py.executor": "Run",
+    "Python tests.Python tests in test_text_and_is_displayed.py.executor": "Run",
+    "Python tests.Python tests in test_xpath_text.py.executor": "Run",
+    "Python tests.pytest for test_amazon.test_amazon.executor": "Run",
+    "Python tests.pytest for test_amazon.test_macys.executor": "Run",
+    "Python tests.pytest for test_dropdown.test_dropdown.executor": "Run",
+    "Python tests.pytest for test_parametrize.test_simple_search.executor": "Run",
+    "Python tests.pytest for test_send_keys.test_send_keys.executor": "Run",
+    "Python tests.pytest in test_parametrize.py.executor": "Run",
+    "Python.Assert (1).executor": "Run",
+    "Python.Conftest.executor": "Run",
+    "Python.Dropdown (1).executor": "Run",
+    "Python.Dropdown.executor": "Run",
+    "Python.Ebay_text.executor": "Run",
+    "Python.Navigation.executor": "Run",
+    "Python.Send_keys.executor": "Run",
+    "Python.TEST.executor": "Run",
+    "Python.Text.executor": "Run",
+    "Python.Text_and_is_displayed (1).executor": "Run",
+    "Python.Xpath (1).executor": "Run",
+    "Python.Xpath.executor": "Run",
+    "Python.assert (1).executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.explicit_wait.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.print.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gorar/PycharmProjects/Ebay/Tests",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gorar\PycharmProjects\Ebay\Tests" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gorar\PycharmProjects\Ebay\API" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_dropdown.test_dropdown">
+  <component name="RunManager" selected="Python tests.Python tests for test_get_all_products.test_get_all_products">
     <configuration name="Python tests for test_assert.test_assert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="EBAY" />
       <option name="ENV_FILES" value="" />
@@ -138,6 +137,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_dropdown.test_dropdown&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_get_all_products.test_get_all_products" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="EBAY" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_all_products.test_get_all_products&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -171,28 +185,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_assert.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="EBAY" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_assert.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_get_all_products.test_get_all_products" />
         <item itemvalue="Python tests.Python tests for test_dropdown.test_dropdown" />
         <item itemvalue="Python tests.Python tests in C:/Users/gorar/PycharmProjects/Ebay/Tests/test_xpath_text.py" />
         <item itemvalue="Python tests.Python tests for test_xpath_text.test_text_and_is_displayed" />
         <item itemvalue="Python tests.Python tests for test_assert.test_assert" />
-        <item itemvalue="Python tests.Python tests in test_assert.py" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726776140198</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Conftest.py deleted">
+      <option name="closed" value="true" />
+      <created>1729083249109</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729083249109</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
